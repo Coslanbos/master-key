@@ -1,5 +1,5 @@
 # master-key
-MasterKey is a lightweight password manager and genarator software using Java, you can run Windows, MacOS, Linux and etc by .jar application. To run, you need to download Java 26 and it will works.
+MasterKey is a lightweight password manager and genarator software using Java, you can run Windows, MacOS, Linux and etc by .jar application. To run, you need to download JDK 27 and it will works.
 
 - How to use:
   + Genrator: You can press any character checkbox and then choose the number of letter and now genarate, so you can copy the passphrase and paste the password while you create a account or change the password.
